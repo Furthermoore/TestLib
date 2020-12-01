@@ -1,3 +1,3 @@
-struct TestLib {
-	static let test = "you passed"
+public struct TestLib {
+	public static let test = "you passed"
 }
