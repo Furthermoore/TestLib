@@ -1,3 +1,3 @@
 struct TestLib {
-    var text = "Hello, World!"
+	static let test = "you passed"
 }
